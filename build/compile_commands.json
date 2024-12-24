@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/avilay/projects/github/c-datastructures/build",
+  "command": "/usr/bin/gcc  -I/home/avilay/projects/github/c-datastructures/src/include -Wall -g -std=gnu17 -fdiagnostics-color=always -o CMakeFiles/aptgutils.dir/src/list.c.o -c /home/avilay/projects/github/c-datastructures/src/list.c",
+  "file": "/home/avilay/projects/github/c-datastructures/src/list.c",
+  "output": "CMakeFiles/aptgutils.dir/src/list.c.o"
+},
+{
+  "directory": "/home/avilay/projects/github/c-datastructures/build",
+  "command": "/usr/bin/gcc  -I/home/avilay/projects/github/c-datastructures/src/include -Wall -g -std=gnu17 -fdiagnostics-color=always -o CMakeFiles/aptgutils.dir/src/dict.c.o -c /home/avilay/projects/github/c-datastructures/src/dict.c",
+  "file": "/home/avilay/projects/github/c-datastructures/src/dict.c",
+  "output": "CMakeFiles/aptgutils.dir/src/dict.c.o"
+},
+{
+  "directory": "/home/avilay/projects/github/c-datastructures/build",
+  "command": "/usr/bin/gcc  -I/home/avilay/projects/github/c-datastructures/src/include -Wall -g -std=gnu17 -fdiagnostics-color=always -o CMakeFiles/aptgutils.dir/src/linked_list.c.o -c /home/avilay/projects/github/c-datastructures/src/linked_list.c",
+  "file": "/home/avilay/projects/github/c-datastructures/src/linked_list.c",
+  "output": "CMakeFiles/aptgutils.dir/src/linked_list.c.o"
+},
+{
+  "directory": "/home/avilay/projects/github/c-datastructures/build",
+  "command": "/usr/bin/gcc  -I/home/avilay/projects/github/c-datastructures/src/include -Wall -g -std=gnu17 -fdiagnostics-color=always -o CMakeFiles/aptgutils_example.dir/examples/main.c.o -c /home/avilay/projects/github/c-datastructures/examples/main.c",
+  "file": "/home/avilay/projects/github/c-datastructures/examples/main.c",
+  "output": "CMakeFiles/aptgutils_example.dir/examples/main.c.o"
+}
+]

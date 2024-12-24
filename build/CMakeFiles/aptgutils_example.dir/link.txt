@@ -1,0 +1,1 @@
+/usr/bin/gcc -Wall -g CMakeFiles/aptgutils_example.dir/examples/main.c.o -o aptgutils_example  libaptgutils.a

@@ -1,0 +1,8 @@
+/home/avilay/projects/github/c-datastructures/build/CMakeFiles/aptgutils.dir
+/home/avilay/projects/github/c-datastructures/build/CMakeFiles/aptgutils_example.dir
+/home/avilay/projects/github/c-datastructures/build/CMakeFiles/edit_cache.dir
+/home/avilay/projects/github/c-datastructures/build/CMakeFiles/rebuild_cache.dir
+/home/avilay/projects/github/c-datastructures/build/CMakeFiles/list_install_components.dir
+/home/avilay/projects/github/c-datastructures/build/CMakeFiles/install.dir
+/home/avilay/projects/github/c-datastructures/build/CMakeFiles/install/local.dir
+/home/avilay/projects/github/c-datastructures/build/CMakeFiles/install/strip.dir
